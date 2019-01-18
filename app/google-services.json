@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54375270443",
+    "firebase_url": "https://foodorderonline.firebaseio.com",
+    "project_id": "foodorderonline",
+    "storage_bucket": "foodorderonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54375270443:android:dc672b5772516175",
+        "android_client_info": {
+          "package_name": "com.example.think.foodorderonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54375270443-juqvlc1aorj85cqj0nfttpf7ag8glvlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.think.foodorderonline",
+            "certificate_hash": "bfb293de303a8cbebbd24d78a2b9c1d5505edfc7"
+          }
+        },
+        {
+          "client_id": "54375270443-sm3pto8njankrlv9pf56dt4nhp7tlb01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY9MEkDut-fnMW4gYLxN34PhCP6cf_jEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54375270443-sm3pto8njankrlv9pf56dt4nhp7tlb01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
